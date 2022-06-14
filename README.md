@@ -3,6 +3,8 @@
 ## generic
 
 - [ffmpeg](https://ffmpeg.org/)
+- [gqrx](https://gqrx.dk)
+- [handbrake](https://handbrake.fr) 
 
 
 ## macOS
@@ -14,6 +16,11 @@
 - [rclone](https://rclone.org/)
 - [ntfy](https://ntfy.readthedocs.io/en/v2.0.1/)
 - [homebrew](https://brew.sh/)
+- [nightowl](https://nightowl.kramser.xyz)
+- [spectacle](https://www.spectacleapp.com)
+- [macdown](https://macdown.uranusjr.com)
+- 
+
 
 ## windows
 - [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
@@ -24,12 +31,16 @@
 
 ## cad / cam
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview)
+- [kicad](https://www.kicad.org)
+
 
 ## dev tools
 - [dfu-programmer](https://dfu-programmer.github.io/)
+- [dfu-util](http://dfu-util.sourceforge.net)
 - [lens](https://k8slens.dev/)
 - [github copilot](https://copilot.github.com/)
 - [k3s](https://k3s.io/)
+
 
 ## graphics
 - [Luminar 4](https://skylum.com/luminar-4)
