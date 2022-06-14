@@ -47,5 +47,5 @@
 - [Cobalt2 theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 - [draw.io integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- 
+- [one monokai theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 - 
