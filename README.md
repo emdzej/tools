@@ -42,6 +42,7 @@
 - [k3s](https://k3s.io/)
 
 
+
 ## graphics
 - [Luminar 4](https://skylum.com/luminar-4)
 
@@ -52,6 +53,7 @@
 - [formik](https://formik.org/)
 - [material ui](https://mui.com/)
 - [date-fns](https://date-fns.org/)
+- [zustand] (https://github.com/pmndrs/zustand)
 
 
 ## vs code extensions
