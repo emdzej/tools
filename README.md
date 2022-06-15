@@ -54,6 +54,8 @@
 - [material ui](https://mui.com/)
 - [date-fns](https://date-fns.org/)
 - [zustand] (https://github.com/pmndrs/zustand)
+- [tailwindui](https://tailwindui.com/)
+- [tailwindcss](https://tailwindcss.com/)
 
 
 ## vs code extensions
