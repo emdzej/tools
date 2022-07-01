@@ -5,6 +5,7 @@
 - [ffmpeg](https://ffmpeg.org/)
 - [gqrx](https://gqrx.dk)
 - [handbrake](https://handbrake.fr) 
+- [minipro](https://gitlab.com/DavidGriffith/minipro/)
 
 
 ## macOS
