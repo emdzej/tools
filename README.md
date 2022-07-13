@@ -57,6 +57,7 @@
 - [zustand] (https://github.com/pmndrs/zustand)
 - [tailwindui](https://tailwindui.com/)
 - [tailwindcss](https://tailwindcss.com/)
+- [mantine](https://mantine.dev/)
 
 
 ## vs code extensions
