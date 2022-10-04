@@ -20,7 +20,7 @@
 - [nightowl](https://nightowl.kramser.xyz)
 - [spectacle](https://www.spectacleapp.com)
 - [macdown](https://macdown.uranusjr.com)
-- 
+- [orion](https://browser.kagi.com)
 
 
 ## windows
