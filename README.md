@@ -6,6 +6,7 @@
 - [gqrx](https://gqrx.dk)
 - [handbrake](https://handbrake.fr) 
 - [minipro](https://gitlab.com/DavidGriffith/minipro/)
+- [imhex](https://github.com/WerWolv/ImHex/)
 
 
 ## macOS
