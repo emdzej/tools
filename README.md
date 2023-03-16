@@ -8,6 +8,7 @@
 - [minipro](https://gitlab.com/DavidGriffith/minipro/)
 - [imhex](https://github.com/WerWolv/ImHex/)
 - [asdf](https://asdf-vm.com)
+- [ntfy](https://ntfy.sh)
 
 ## macOS
 
@@ -38,8 +39,8 @@
 - [dfu-util](http://dfu-util.sourceforge.net)
 - [lens](https://k8slens.dev/)
 - [github copilot](https://copilot.github.com/)
-- [k3s](https://k3s.io/)
-
+- [apktool](https://ibotpeaches.github.io/Apktool/)
+- 
 ## graphics
 - [Luminar 4](https://skylum.com/luminar-4)
 
@@ -58,6 +59,8 @@
 ## k8s
 - [k9s](https://k9scli.io)
 - [Forecastle](https://github.com/stakater/Forecastle)
+- [k3s](https://k3s.io/)
+
 
 ## vs code extensions
 - [Cobalt2 theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
