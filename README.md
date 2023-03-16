@@ -7,7 +7,7 @@
 - [handbrake](https://handbrake.fr) 
 - [minipro](https://gitlab.com/DavidGriffith/minipro/)
 - [imhex](https://github.com/WerWolv/ImHex/)
-
+- [asdf](https://asdf-vm.com)
 
 ## macOS
 
@@ -23,18 +23,15 @@
 - [macdown](https://macdown.uranusjr.com)
 - [orion](https://browser.kagi.com)
 
-
 ## windows
 - [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
 - [chocolatey](https://chocolatey.org/)
 - [windows terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=pl-pl&gl=PL)
 - [7-zip](https://www.7-zip.org/)
 
-
 ## cad / cam
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview)
 - [kicad](https://www.kicad.org)
-
 
 ## dev tools
 - [dfu-programmer](https://dfu-programmer.github.io/)
@@ -42,8 +39,6 @@
 - [lens](https://k8slens.dev/)
 - [github copilot](https://copilot.github.com/)
 - [k3s](https://k3s.io/)
-
-
 
 ## graphics
 - [Luminar 4](https://skylum.com/luminar-4)
@@ -60,10 +55,18 @@
 - [tailwindcss](https://tailwindcss.com/)
 - [mantine](https://mantine.dev/)
 
+## k8s
+- [k9s](https://k9scli.io)
+- [Forecastle](https://github.com/stakater/Forecastle)
 
 ## vs code extensions
 - [Cobalt2 theme](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 - [draw.io integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [one monokai theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
-- 
+
+
+## docs
+
+- [Antora](https://antora.org)
+- [ASCIIDoc](http://asciidoctor.org)
